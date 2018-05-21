@@ -7,8 +7,8 @@ A Dark theme for various IDEs, uses main three colors pink-cyan-yellow on a dark
 
 ![alt-text][clion]
 
-[intellij](https://github.com/denvash/Summer-Time-theme/blob/master/IntellijExample.png?raw=true "intellij screen")
-[clion](https://github.com/denvash/Summer-Time-theme/blob/master/ClionExample.png?raw=true "clion screen")
+[intellij]: https://github.com/denvash/Summer-Time-theme/blob/master/IntellijExample.png?raw=true "intellij screen"
+[clion]: https://github.com/denvash/Summer-Time-theme/blob/master/ClionExample.png?raw=true "clion screen"
 
 ## Installation
 
