@@ -1,13 +1,12 @@
 <scheme name="Summer-Time" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-05-30T00:55:28</property>
+    <property name="created">2018-06-10T08:59:22</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-05-30T00:55:37</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-06-10T08:59:36</property>
     <property name="originalScheme">Summer-Time</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -251,19 +250,21 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="bcc3cd" />
+        <option name="FOREGROUND" value="79cdc4" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="9097a1" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="40bbcd" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="91989c" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="ebcb8b" />
+        <option name="FOREGROUND" value="55d7e1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -305,14 +306,13 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e3d6de" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="f5b8f9" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="e3d6de" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="f5b8f9" />
+        <option name="BACKGROUND" value="3c3f41" />
         <option name="EFFECT_COLOR" value="bcc5c8" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -562,12 +562,12 @@
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="bffb" />
       </value>
     </option>
     <option name="KOTLIN_CONSTRUCTOR">
       <value>
-        <option name="FOREGROUND" value="b2c3d2" />
+        <option name="FOREGROUND" value="5ed1d2" />
         <option name="EFFECT_COLOR" value="d9c45f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -597,7 +597,9 @@
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f6cef9" />
+      </value>
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
