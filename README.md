@@ -2,7 +2,9 @@
 
 A Dark theme for various IDEs, uses main three colors <span style="color:pink">PINK</span> <span style="color:cyan">CYAN</span> <span style="color:yellow">YELLOW</span> on a dark-background 
 
+## Kotlin
 
+![alt-text][kotlin]
 
 ## Java
 
@@ -14,6 +16,7 @@ A Dark theme for various IDEs, uses main three colors <span style="color:pink">P
 
 [intellij]: https://github.com/denvash/Summer-Time-theme/blob/master/IntellijExample.png?raw=true "intellij screen"
 [clion]: https://github.com/denvash/Summer-Time-theme/blob/master/ClionExample.png?raw=true "clion screen"
+[kotlin]: KotlinExample.png "kotlin screen"
 
 ## Installation
 
